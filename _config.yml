@@ -4,8 +4,11 @@ url: https://adamkohazi.github.io/ # root address of the site
 baseurl: "" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
   I'm a Hardware Design Engineer, with a passion for coding.
-  I created this site to share more insight into my personal projects by describing my ideas, design process, and progress in a way that focuses more on the journey than the final outcome. This also makes it possible to explore and discuss ideas that don’t necessarily make it into a final, documented project.
+  
+  I created this site to share more insight into my personal projects by describing my ideas, design process, and progress in a way that focuses more on the journey than the final outcome.
 
+  I enjoy blending engineering work with creative design, building systems that fascinate and entertain, and creating tools and devices that make everyday life more convinient, effective, or simply more fun.
+  
 permalink: /:slug
 
 twitter:
